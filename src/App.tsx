@@ -1,8 +1,8 @@
 import React from 'react';
-import Demo from './pages/Demo';
+import Todo from "./pages/Todo";
 
 function App() {
-  return <Demo />;
+  return <Todo />;
 }
 
 export default App;
